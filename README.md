@@ -27,3 +27,11 @@ Finvyn is a production-grade, highly responsive personal finance dashboard built
 
 ## Architecture Notes
 The application was built with a "Mobile-First" mindset. The dashboard utilizes a custom horizontal scroll container for data tables and a bento-grid layout for charts, ensuring a 100% functional experience from desktop to mobile viewports.
+
+## Screenshots
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/375c52f5-c8d5-4412-aa1c-3130ff33e1b6" />
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/7be647a5-e876-4562-81e1-10ba3006b05e" />
+<img width="1908" height="1018" alt="image" src="https://github.com/user-attachments/assets/1d623233-3508-4b2d-9e4b-2c9d483296fb" />
+
+
+
