@@ -1,6 +1,6 @@
 # Finvyn | Personal Finance Dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-emerald.svg)](#) *(<- Add your Vercel link here later)*
+[![Live Demo](https://img.shields.io/badge/Live-Demo-emerald.svg)](#) *(https://finance-dashboard-eosin-theta.vercel.app/)*
 
 Finvyn is a production-grade, highly responsive personal finance dashboard built to track expenses, visualize spending trends, and manage monthly budgets. 
 
@@ -21,7 +21,7 @@ Finvyn is a production-grade, highly responsive personal finance dashboard built
 - **State Management:** React Hooks (`useMemo`, `useCallback`) + `localStorage`
 
 ##  Running Locally
-1. Clone the repository: `git clone [your-repo-link]`
+1. Clone the repository: `git clone https://github.com/Shreya-2124/Finance-dashboard`
 2. Install dependencies: `npm install`
 3. Start the dev server: `npm run dev`
 
